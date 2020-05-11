@@ -1,6 +1,6 @@
 ## React Sematext Demo
 
-How to connect your react to sematext experience (Real user monitoring).
+How to connect your react app to sematext experience (Real user monitoring).
 
 ## Adding Scripts
 
